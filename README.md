@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m Youssef Ehab Elsrogi, a Backend Developer specialized in PHP/Laravel. I have experience building strong and scalable web applications, RESTful APIs, and multi-tenant systems. I enjoy writing clean, maintainable code and follow SOLID principles. Currently, I’m a third-year Computer Science student, always looking for projects to learn from and improve my skills.</p>
+<p align="left">Backend Laravel Developer with 1 year of hands-on experience in building, optimizing, and maintaining web applications. Skilled in Laravel, PHP, MySQL, RESTful APIs, and multi-tenant architectures. Proven track record in delivering secure, scalable systems, enhancing backend performance, and applying clean architecture principles. Experienced in three companies (internship & full-time) with strong problem-solving, teamwork, and communication skills..</p>
 
 ###
 
